@@ -1,6 +1,6 @@
 ﻿# LiterAlura-Challenge-ONE
 
-##Funcionalidade
+Funcionalidade
 
 * Buscar livros pelo título: Consulta a API Gutendex para buscar livros pelo título.
 * Listar livros registrados: Exibe todos os livros registrados no banco de dados.
@@ -11,4 +11,8 @@
 * Listar livros em um determinado idioma: Lista livros registrados no banco de dados em um idioma especificado.
 * Encerrar a aplicação: Encerra o programa.
 
+## Repositório
 
+Para clonar o repositório para sua máquina local, use:
+
+```bash
