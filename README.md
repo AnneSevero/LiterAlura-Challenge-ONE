@@ -1,6 +1,8 @@
-﻿# LiterAlura-Challenge-ONE
+﻿# LiterAlura
 
-Funcionalidade
+### Literalura é uma aplicação Java/Spring Boot para amantes de livros. Esta aplicação permite buscar livros, listar livros registrados, listar autores, e muitas outras funcionalidades relacionadas à leitura e organização de livros.
+
+## Funcionalidade
 
 * Buscar livros pelo título: Consulta a API Gutendex para buscar livros pelo título.
 * Listar livros registrados: Exibe todos os livros registrados no banco de dados.
@@ -16,3 +18,4 @@ Funcionalidade
 Para clonar o repositório para sua máquina local, use:
 
 ```bash
+https://github.com/AnneSevero/LiterAlura-Challenge-ONE.git
