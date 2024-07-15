@@ -19,3 +19,7 @@ Para clonar o repositório para sua máquina local, use:
 
 ```bash
 https://github.com/AnneSevero/LiterAlura-Challenge-ONE.git
+```
+
+# Badge de finalização do Challenge 
+![badge literalura](https://github.com/user-attachments/assets/dab53397-b32e-404f-9b70-352f61bd2f0c)
